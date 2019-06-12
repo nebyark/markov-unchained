@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MarkovUnchained_Example' do
+  pod 'MarkovUnchained', :path => '../'
+
+  target 'MarkovUnchained_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
