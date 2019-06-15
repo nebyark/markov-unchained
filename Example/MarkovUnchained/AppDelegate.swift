@@ -2,8 +2,7 @@
 //  AppDelegate.swift
 //  MarkovUnchained
 //
-//  Created by planarform on 06/11/2019.
-//  Copyright (c) 2019 planarform. All rights reserved.
+//  Created by Ben Kray on 6/11/19.
 //
 
 import UIKit
@@ -14,7 +13,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
 
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+    internal func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         return true
     }
