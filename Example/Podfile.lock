@@ -1,0 +1,16 @@
+PODS:
+  - MarkovUnchained (0.1.0)
+
+DEPENDENCIES:
+  - MarkovUnchained (from `../`)
+
+EXTERNAL SOURCES:
+  MarkovUnchained:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MarkovUnchained: 577395a02294a74766513330b9f1b2fa39bc8745
+
+PODFILE CHECKSUM: 6915c7289328ecd48c01d47831ccee9b7607425d
+
+COCOAPODS: 1.5.3

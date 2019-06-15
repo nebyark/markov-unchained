@@ -1,0 +1,23 @@
+{
+  "name": "MarkovUnchained",
+  "version": "0.1.0",
+  "summary": "A simple, generic Markov chain implementation written in Swift.",
+  "homepage": "https://github.com/nebyark/MarkovUnchained",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ben Kray": "benkray@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/nebyark/MarkovUnchained.git",
+    "tag": "0.1.0"
+  },
+  "social_media_url": "https://twitter.com/nebyark",
+  "swift_version": "5.0",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MarkovUnchained/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module MarkovUnchained {
+  umbrella header "MarkovUnchained-umbrella.h"
+
+  export *
+  module * { export * }
+}
